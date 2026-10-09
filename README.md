@@ -8,6 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-ericss.id.vn-D97706?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ericss.id.vn)
 [![GitHub followers](https://img.shields.io/github/followers/nguyenphat006?style=for-the-badge&logo=github&color=2B1D12)](https://github.com/nguyenphat006)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ericss--ndp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericss-ndp/)
 [![Email](https://img.shields.io/badge/Email-nguyendangphat1505-8B5A2B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyendangphat1505@gmail.com)
 
 🌐 **English** · [Tiếng Việt](README.vi.md)
@@ -43,7 +44,12 @@
 
 ## 🤝 Get in touch
 
-Always happy to talk about projects, collaboration or learning. Visit [**ericss.id.vn**](https://ericss.id.vn) or send me an email!
+Always happy to talk about projects, collaboration or learning.
+
+- 🌐 Website: [ericss.id.vn](https://ericss.id.vn)
+- 💼 LinkedIn: [linkedin.com/in/ericss-ndp](https://www.linkedin.com/in/ericss-ndp/)
+- 📧 Email: [nguyendangphat1505@gmail.com](mailto:nguyendangphat1505@gmail.com)
+- 🐙 GitHub: [@nguyenphat006](https://github.com/nguyenphat006)
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,100:2B1D12&height=100&section=footer" alt="footer" />
