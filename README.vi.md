@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1D12,100:D97706&height=180&section=header&text=Nguyen%20Dang%20Phat&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Fullstack%20Developer%20•%20Bien%20Hoa,%20Dong%20Nai,%20Vietnam&descAlignY=60&descSize=16" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1D12,100:D97706&height=180&section=header&text=Nguyễn%20Đăng%20Phát&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Fullstack%20Developer%20•%20Biên%20Hòa,%20Đồng%20Nai&descAlignY=60&descSize=16" alt="banner" />
 
-<a href="https://github.com/nguyenphat006"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97706&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Phat+👋;Fullstack+Developer+@+IOT+Software;Next.js+%7C+.NET+Core+%7C+Django+%7C+TypeScript;Studying+Web+Design+at+LHU" alt="typing" /></a>
+<a href="https://github.com/nguyenphat006"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97706&center=true&vCenter=true&width=520&lines=Xin+chào%2C+mình+là+Phát+👋;Fullstack+Developer+@+IOT+Software;Next.js+%7C+.NET+Core+%7C+Django+%7C+TypeScript;Đang+học+Thiết+kế+Web+tại+LHU" alt="typing" /></a>
 
 <br/>
 
@@ -10,20 +10,21 @@
 [![GitHub followers](https://img.shields.io/github/followers/nguyenphat006?style=for-the-badge&logo=github&color=2B1D12)](https://github.com/nguyenphat006)
 [![Email](https://img.shields.io/badge/Email-nguyendangphat1505-8B5A2B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyendangphat1505@gmail.com)
 
-🌐 **English** · [Tiếng Việt](README.vi.md)
+
+🌐 [English](README.md) · **Tiếng Việt**
 
 </div>
 
 ---
 
-## 👨‍💻 About me
+## 👨‍💻 Giới thiệu
 
-- 🏢 Working at **IOT Software Company**
-- 🎓 Student at **Lac Hong University (LHU)**. Graduation project: *eFit*, an AI-assisted training-cycle and nutrition management system
-- 🛠️ I like building products end to end: UI, APIs, databases and deployment
-- 🪵 Currently building **WoodERP**, a furniture-manufacturing ERP in pure HTML/CSS
+- 🏢 Đang làm việc tại **IOT Software Company**
+- 🎓 Sinh viên **Đại học Lạc Hồng (LHU)**: đồ án tốt nghiệp *eFit*, hệ thống quản lý huấn luyện hình thể tích hợp AI
+- 🛠️ Thích xây dựng sản phẩm từ đầu đến cuối: giao diện, API, cơ sở dữ liệu, triển khai
+- 🪵 Đang làm: **WoodERP**, hệ thống ERP quản lý sản xuất đồ nội thất (HTML/CSS thuần)
 
-## 🧰 Tech stack
+## 🧰 Công nghệ
 
 <div align="center">
 
@@ -42,48 +43,48 @@
 
 </div>
 
-## 🚀 Featured projects
+## 🚀 Dự án nổi bật
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nguyenphat006/thiet-ke-web-lhu">🪵 WoodERP</a></h3>
-      Furniture manufacturing ERP: filters, modals and animations in <b>pure CSS, zero JavaScript</b>.<br/>
-      <a href="https://nguyenphat006.github.io/thiet-ke-web-lhu/">Live demo →</a>
+      ERP sản xuất nội thất: lọc, modal, animation bằng <b>CSS thuần, không JavaScript</b>.<br/>
+      <a href="https://nguyenphat006.github.io/thiet-ke-web-lhu/">Xem demo →</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nguyenphat006/shopsifu">🛒 Shopsifu</a></h3>
-      A modern e-commerce marketplace for fast, safe online shopping and selling.<br/>
+      Sàn thương mại điện tử hiện đại: mua sắm và bán hàng trực tuyến nhanh, an toàn.<br/>
       <code>TypeScript</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nguyenphat006/job-recruitment-nextjs-netcore">💼 Job Recruitment</a></h3>
-      Job recruitment platform built with <b>.NET Core 8 &amp; Next.js</b>.<br/>
+      Nền tảng tuyển dụng việc làm với <b>.NET Core 8 &amp; Next.js</b>.<br/>
       <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/gia-su-ai-khtn">🤖 AI Tutor</a></h3>
-      An AI tutoring website that helps students study independently and assess their skills.<br/>
+      <h3><a href="https://github.com/nguyenphat006/gia-su-ai-khtn">🤖 Gia sư AI</a></h3>
+      Website gia sư AI giúp học sinh tự học và đánh giá năng lực.<br/>
       <code>TypeScript</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nguyenphat006/eFit">💪 eFit</a></h3>
-      Graduation project: training-cycle management and AI-driven nutrition optimization.<br/>
+      Đồ án tốt nghiệp LHU: quản lý chu kỳ huấn luyện và tối ưu dinh dưỡng bằng AI.<br/>
       <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/nguyenphat006/fullstack-portfolio">🌐 Fullstack Portfolio</a></h3>
-      A modern portfolio for a fullstack developer.<br/>
+      Portfolio hiện đại cho Fullstack Developer.<br/>
       <code>TypeScript</code>
     </td>
   </tr>
 </table>
 
-## 📊 GitHub stats
+## 📊 Thống kê GitHub
 
 <div align="center">
 
@@ -94,9 +95,9 @@
 
 </div>
 
-## 🤝 Get in touch
+## 🤝 Kết nối
 
-Always happy to talk about projects, collaboration or learning. Visit [**ericss.id.vn**](https://ericss.id.vn) or send me an email!
+Mình luôn sẵn sàng trao đổi về dự án, hợp tác hoặc học hỏi. Ghé [**ericss.id.vn**](https://ericss.id.vn) hoặc nhắn qua email nhé!
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97706,100:2B1D12&height=100&section=footer" alt="footer" />
