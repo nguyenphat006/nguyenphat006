@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1D12,100:D97706&height=180&section=header&text=Nguyễn%20Đăng%20Phát&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Fullstack%20Developer%20•%20Biên%20Hòa,%20Đồng%20Nai&descAlignY=60&descSize=16" alt="banner" />
 
-<a href="https://github.com/nguyenphat006"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97706&center=true&vCenter=true&width=520&lines=Xin+chào%2C+mình+là+Phát+👋;Fullstack+Developer+@+IOT+Software;Next.js+%7C+.NET+Core+%7C+Django+%7C+TypeScript;Đang+học+Thiết+kế+Web+tại+LHU" alt="typing" /></a>
+<a href="https://github.com/nguyenphat006"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97706&center=true&vCenter=true&width=520&lines=Xin+chào%2C+mình+là+Phát+👋;Fullstack+Developer+@+BINH+BFC+CO.,+LTD;Next.js+%7C+.NET+Core+%7C+Django+%7C+TypeScript;Đang+học+Thiết+kế+Web+tại+LHU" alt="typing" /></a>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 Giới thiệu
 
-- 🏢 Đang làm việc tại **IOT Software Company**
+- 🏢 Đang làm việc tại **BINH BFC CO., LTD**
 - 🎓 Sinh viên **Đại học Lạc Hồng (LHU)**: đồ án tốt nghiệp: **hệ thống ERP sản xuất nội thất**
 - 🛠️ Thích xây dựng sản phẩm từ đầu đến cuối: giao diện, API, cơ sở dữ liệu, triển khai
 
