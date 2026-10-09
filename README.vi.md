@@ -42,17 +42,6 @@
 
 </div>
 
-## 📊 Thống kê GitHub
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nguyenphat006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D97706&icon_color=D97706&text_color=C9D1D9" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenphat006&layout=compact&hide_border=true&bg_color=0D1117&title_color=D97706&text_color=C9D1D9" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenphat006&hide_border=true&background=0D1117&ring=D97706&fire=D97706&currStreakLabel=D97706&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="streak" />
-
-</div>
-
 ## 🤝 Kết nối
 
 Mình luôn sẵn sàng trao đổi về dự án, hợp tác hoặc học hỏi. Ghé [**ericss.id.vn**](https://ericss.id.vn) hoặc nhắn qua email nhé!
