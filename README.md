@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B1D12,100:D97706&height=180&section=header&text=Nguyen%20Dang%20Phat&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Fullstack%20Developer%20•%20Bien%20Hoa,%20Dong%20Nai,%20Vietnam&descAlignY=60&descSize=16" alt="banner" />
 
-<a href="https://github.com/nguyenphat006"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97706&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Phat+👋;Fullstack+Developer+@+BINH+BFC+CO.,+LTD;Next.js+%7C+.NET+Core+%7C+Django+%7C+TypeScript;Studying+Web+Design+at+LHU" alt="typing" /></a>
+<a href="https://github.com/nguyenphat006"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D97706&center=true&vCenter=true&width=520&lines=Hi%2C+I%27m+Phat+%F0%9F%91%8B;Fullstack+Developer+@+BINH+BFC+CO.%2C+LTD;Next.js+%7C+.NET+Core+%7C+Django+%7C+TypeScript;Studying+Web+Design+at+LHU" alt="typing" /></a>
 
 <br/>
 
