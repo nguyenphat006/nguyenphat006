@@ -20,9 +20,8 @@
 ## 👨‍💻 Giới thiệu
 
 - 🏢 Đang làm việc tại **IOT Software Company**
-- 🎓 Sinh viên **Đại học Lạc Hồng (LHU)**: đồ án tốt nghiệp *eFit*, hệ thống quản lý huấn luyện hình thể tích hợp AI
+- 🎓 Sinh viên **Đại học Lạc Hồng (LHU)**: đồ án tốt nghiệp: **hệ thống ERP sản xuất nội thất**
 - 🛠️ Thích xây dựng sản phẩm từ đầu đến cuối: giao diện, API, cơ sở dữ liệu, triển khai
-- 🪵 Đang làm: **WoodERP**, hệ thống ERP quản lý sản xuất đồ nội thất (HTML/CSS thuần)
 
 ## 🧰 Công nghệ
 
@@ -42,47 +41,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
-
-## 🚀 Dự án nổi bật
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/thiet-ke-web-lhu">🪵 WoodERP</a></h3>
-      ERP sản xuất nội thất: lọc, modal, animation bằng <b>CSS thuần, không JavaScript</b>.<br/>
-      <a href="https://nguyenphat006.github.io/thiet-ke-web-lhu/">Xem demo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/shopsifu">🛒 Shopsifu</a></h3>
-      Sàn thương mại điện tử hiện đại: mua sắm và bán hàng trực tuyến nhanh, an toàn.<br/>
-      <code>TypeScript</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/job-recruitment-nextjs-netcore">💼 Job Recruitment</a></h3>
-      Nền tảng tuyển dụng việc làm với <b>.NET Core 8 &amp; Next.js</b>.<br/>
-      <code>TypeScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/gia-su-ai-khtn">🤖 Gia sư AI</a></h3>
-      Website gia sư AI giúp học sinh tự học và đánh giá năng lực.<br/>
-      <code>TypeScript</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/eFit">💪 eFit</a></h3>
-      Đồ án tốt nghiệp LHU: quản lý chu kỳ huấn luyện và tối ưu dinh dưỡng bằng AI.<br/>
-      <code>TypeScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/fullstack-portfolio">🌐 Fullstack Portfolio</a></h3>
-      Portfolio hiện đại cho Fullstack Developer.<br/>
-      <code>TypeScript</code>
-    </td>
-  </tr>
-</table>
 
 ## 📊 Thống kê GitHub
 

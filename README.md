@@ -19,9 +19,8 @@
 ## 👨‍💻 About me
 
 - 🏢 Working at **IOT Software Company**
-- 🎓 Student at **Lac Hong University (LHU)**. Graduation project: *eFit*, an AI-assisted training-cycle and nutrition management system
+- 🎓 Student at **Lac Hong University (LHU)**. Graduation project: a **furniture-manufacturing ERP system**
 - 🛠️ I like building products end to end: UI, APIs, databases and deployment
-- 🪵 Currently building **WoodERP**, a furniture-manufacturing ERP in pure HTML/CSS
 
 ## 🧰 Tech stack
 
@@ -41,47 +40,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </div>
-
-## 🚀 Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/thiet-ke-web-lhu">🪵 WoodERP</a></h3>
-      Furniture manufacturing ERP: filters, modals and animations in <b>pure CSS, zero JavaScript</b>.<br/>
-      <a href="https://nguyenphat006.github.io/thiet-ke-web-lhu/">Live demo →</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/shopsifu">🛒 Shopsifu</a></h3>
-      A modern e-commerce marketplace for fast, safe online shopping and selling.<br/>
-      <code>TypeScript</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/job-recruitment-nextjs-netcore">💼 Job Recruitment</a></h3>
-      Job recruitment platform built with <b>.NET Core 8 &amp; Next.js</b>.<br/>
-      <code>TypeScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/gia-su-ai-khtn">🤖 AI Tutor</a></h3>
-      An AI tutoring website that helps students study independently and assess their skills.<br/>
-      <code>TypeScript</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/eFit">💪 eFit</a></h3>
-      Graduation project: training-cycle management and AI-driven nutrition optimization.<br/>
-      <code>TypeScript</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/nguyenphat006/fullstack-portfolio">🌐 Fullstack Portfolio</a></h3>
-      A modern portfolio for a fullstack developer.<br/>
-      <code>TypeScript</code>
-    </td>
-  </tr>
-</table>
 
 ## 📊 GitHub stats
 
